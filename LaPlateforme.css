@@ -1,0 +1,180 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+.echangez {
+    text-align: center;
+    background-color: #0070E0;
+    color: #FFFFFF;
+    font-family: "Lexend", sans-serif;
+    font-size: 20px;
+    border: 2px  solid #0070E0;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.etudiant {
+    text-decoration: none;
+    color: #FFFFFF;
+
+}
+
+.Logo {
+    color: #0070E0;
+	font-family: "Lexend", sans-serif;
+	border: 2px solid #0070E0;
+	padding: 10px;           
+	display: inline-block;
+	border-radius: 10px;
+    font-weight: bold;
+}
+
+
+
+.Rubriques {
+    color: #0070E0;
+	font-family: "Lexend", sans-serif;
+	border: 2px solid #0070E0;
+	padding: 5px;           
+	display: inline-block;
+	border-radius: 10px;
+    text-decoration: none;
+}
+
+.ListeSansPuces {
+    list-style-type: none;
+text-align: center;}
+
+.ListeSansPuces li {
+    display: inline;
+    padding: 75px;
+}
+
+.Titre2 {
+    background-color: #0070E0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: #FFFFFF;
+font-family: "Lexend", sans-serif;
+font-weight: bold;
+}
+
+.presentation {
+    background-color: #0070E0;
+    color: #FFFFFF;
+    font-family: "Lexend" sans-sherif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+     
+    gap: 20px;
+}
+.presentation p {
+    max-width: 400px;
+    font-size: 30px;
+}
+.image2 {
+  width: 600px;        
+  height: auto;
+  
+}
+
+footer { 
+    background: #2E2F2F; 
+    color: #FFFFFF;
+    padding:1rem; 
+    text-align:center; s
+}
+
+.lienFoot {
+    color: #0070E0;
+    text-decoration: none;
+}
+
+
+.BoutonAcceuil {
+    text-decoration: none;
+    color: #0070E0;
+	font-family: "Lexend", sans-serif;
+	border: 2px solid #0070E0;
+	padding: 10px;           
+	display: inline-block;
+	border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #2E2F2F;
+  margin: 20px 0;
+  opacity: 0.5;
+}
+
+.QuiSommes {
+    color: black;
+    font-family: "Lexend", sans-sherif;
+    font-weight: bold;
+    font-size: 33px;
+    padding-left: 133px;
+}
+
+.conteneur {
+  display: flex;        
+  justify-content: center;
+  gap: 30px;            
+}
+
+.bloc {
+  color: #969191;
+  font-family: "Roboto Flex", sans-serif;
+  flex: 1;              
+  justify-content: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  max-width: 455px;
+  width: 100%;
+  font-size: 20px;
+}
+
+.Partenaires {
+    margin-top: 85px;
+     color: black;
+    font-family: "Lexend", sans-sherif;
+    font-weight: bold;
+    font-size: 33px;
+    padding-left: 133px;
+
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 200px;
+    display: flex;
+  justify-content: center; 
+  height: 400px;
+}
+
+.Presentata {
+    color: black;
+    font-family: "Lexend", sans-sherif;
+    font-weight: bold;
+    font-size: 33px;
+    padding-left: 133px;
+    margin-bottom: 30px;
+}
+
+.blocVideo {
+     display: flex;        
+  gap: 60px;            
+  justify-content: center; 
+  flex-wrap: wrap; 
+  margin-bottom: 20px;
+
+}
