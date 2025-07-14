@@ -178,3 +178,37 @@ img {
   margin-bottom: 20px;
 
 }
+
+.news-item {
+    color: #969191;
+  font-family: "Roboto Flex", sans-serif;
+  flex: 1;              
+  justify-content: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 20px;
+  margin: 3vw;
+  display: flex;
+    justify-content: center;
+  
+}
+
+.bloc1 {
+    display: flex;
+    justify-content: center;
+}
+
+.blocTaxe {
+     color: #969191;
+  font-family: "Roboto Flex", sans-serif;
+  flex: 1;              
+  justify-content: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 20px;
+  margin: 3vw;
+  display: flex;
+    justify-content: center;
+}
